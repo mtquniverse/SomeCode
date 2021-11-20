@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2759b06ef3418ec4daaa6d686ca8e3e6, type: 3}
+  m_Name: SubstancesObj
+  m_EditorClassIdentifier: 
+  idSubstance: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000
+  ObjectName:
+  - 
+  - Water
+  - Lemon
+  - Baking Soda
+  - Sugar
+  - Powder Coffe
+  - Coffe Residual
+  - Te Herbs
+  - Salt
+  - Vinegar
+  - Sand
+  - Gravel
+  - Cement
+  - Rocks
+  - Nails
+  - Clay
+  - Earth
+  - Clips
+  - Peanuts
+  - Marbles
+  - Nuts
+  - Cat's Sand
+  - Gray Clay
+  - Eggs
+  - Wheat Flour
+  - Milk
+  - Butter
+  - Water with Lemon
+  - Water with Sugar
+  - Lemonade
+  - Wrong Lemonade
+  - Water with Baking Soda
+  - Lemon with Baking Soda
+  - Ancient Medicine
+  - poor Ancient Medicine
+  - Coffe with Residual
+  - cold Coffe with Residual
+  - Coffe with Sugar and Residual
+  - cold Coffe with Sugar and Residual
+  - Powder Coffe with Sugar
+  - Coffe
+  - cold Cofee
+  - Coffe without Sugar
+  - cold Cofee without Sugar
+  - Te Herbs with Residual
+  - cold Te Herbs with Residual
+  - Te Herbs with Sugar and Residual
+  - cold Te Herbs with Sugar and Residual
+  - Te Herbs with Sugar
+  - Te
+  - cold Te
+  - To with Sugar
+  - cold Te with Sugar
+  - Sand with Cement
+  - Sand with Gravel
+  - Gravel with Cement
+  - Sand with Gravel and Cement
+  - Finishing Mortar
+  - Mortar
+  - Wrong Mortar
+  - Sand with Water
+  - Gravel with Water
+  - Sand with Gravel and Water
+  - Clips with Peanuts and Salt
+  - Clips with Peanuts
+  - Clips with Salt
+  - Peanuts with Salt
+  - Marbles with Nuts and Cat's Sand
+  - Marbles with Nuts
+  - Marbles with Cat's Sand
+  - Nuts with Cat's Sand
+  - Eggs with Sugar
+  - Eggs with Flour
+  - Eggs with Milk
+  - Sugar with Flour
+  - Sugar with Milk
+  - Flour with Milk
+  - Eggs with Sugar and Flour
+  - Eggs with Sugar and Milk
+  - Eggs with Flour and Milk
+  - Sugar with Flour and Milk
+  - Cake Mix
+  - Cake
+  - Failed Cake
+  - Powder Gelatine
+  - Gelatine Mix
+  - Wrong Gelatine Mix
+  - Wrong Gelatine
+  - Gelatine
+  - Powder Pudin
+  - Pudin Mix
+  - Wrong Pudin Mix
+  - Wrong Pudin
+  - Pudin
+  - Unkow Mix
+  - Te Residual
+  inventorySprite:
+  - {fileID: 21300000, guid: abb182c087b03cb43acf4cce7cbdbac7, type: 3}
+  - {fileID: 21300000, guid: 7b1b047dcecddbc46a19d11bda7ded35, type: 3}
+  - {fileID: 21300000, guid: 18ad50572627d1c4d88de14f9cc4ca5f, type: 3}
+  - {fileID: 21300000, guid: df62725183dc7864f87fc12d0b7035d1, type: 3}
+  - {fileID: 21300000, guid: fc0a3d2446326724bb8ca025849464ba, type: 3}
+  - {fileID: 21300000, guid: 22745877b0b5be041a02f8b88ba55c60, type: 3}
+  - {fileID: 21300000, guid: b0ff082475422684fb98d5a1511a0d88, type: 3}
+  - {fileID: 21300000, guid: 2b255634b406cf64d94a52b549b1ef0d, type: 3}
+  - {fileID: 21300000, guid: 2397d7be9a8443a48986d31a514f3ec7, type: 3}
+  - {fileID: 21300000, guid: 994c4cd781b44164694152da182a41ff, type: 3}
+  - {fileID: 21300000, guid: 883011cbc2df71c4880b0f8af5b5ba06, type: 3}
+  - {fileID: 21300000, guid: f21e65d6a5bb77241a07805155147874, type: 3}
+  - {fileID: 21300000, guid: 366dc70354aeaca4db9abf9871df3d67, type: 3}
+  - {fileID: 21300000, guid: b8d7f8c080cf2a946a362a50d427f8f0, type: 3}
+  - {fileID: 21300000, guid: 67186a87a29080546a98fcae6308a74c, type: 3}
+  - {fileID: 21300000, guid: 1a0f7e2fe7423a84b936162c65cf29ef, type: 3}
+  - {fileID: 21300000, guid: 3022ef4db5e96c9478f6001d2fa5c041, type: 3}
+  - {fileID: 21300000, guid: 52ce5be01aa52cb4ca410c048897c742, type: 3}
+  - {fileID: 21300000, guid: 85c0765ae0a35d242a8bc67eab066039, type: 3}
+  - {fileID: 21300000, guid: 153d3dc4e9001b84197b4ecb994c2f1b, type: 3}
+  - {fileID: 21300000, guid: 179b29c05ed3f7e42a1f89d119384da1, type: 3}
+  - {fileID: 21300000, guid: b3896177f13b47648b12f0411685c194, type: 3}
+  - {fileID: 21300000, guid: c488a8fe119380247bd2d063dc917b21, type: 3}
+  - {fileID: 21300000, guid: 3710b312663ed1c42953a85fa6c34b3a, type: 3}
+  - {fileID: 21300000, guid: 28232b04d2ac4ba45aeebec66585f9e2, type: 3}
+  - {fileID: 21300000, guid: c80be59258472b648bc1195560933761, type: 3}
+  - {fileID: 21300000, guid: c3c992d223e330344b52335d605c767a, type: 3}
+  - {fileID: 21300000, guid: 0885a1aa878400c47a77bbee76abf0e0, type: 3}
+  - {fileID: 21300000, guid: d607a9f9f05c3af4cb155d032154ec6b, type: 3}
+  - {fileID: 21300000, guid: 0885a1aa878400c47a77bbee76abf0e0, type: 3}
+  - {fileID: 21300000, guid: 0885a1aa878400c47a77bbee76abf0e0, type: 3}
+  - {fileID: 21300000, guid: d607a9f9f05c3af4cb155d032154ec6b, type: 3}
+  - {fileID: 21300000, guid: df62725183dc7864f87fc12d0b7035d1, type: 3}
+  - {fileID: 21300000, guid: eac7634fad07dde40a8f7c5326e4fff5, type: 3}
+  - {fileID: 21300000, guid: eac7634fad07dde40a8f7c5326e4fff5, type: 3}
+  - {fileID: 21300000, guid: 0c65246533d10e043ab2e4c5330f1e30, type: 3}
+  - {fileID: 21300000, guid: 0c65246533d10e043ab2e4c5330f1e30, type: 3}
+  - {fileID: 21300000, guid: 0c65246533d10e043ab2e4c5330f1e30, type: 3}
+  - {fileID: 21300000, guid: 0c65246533d10e043ab2e4c5330f1e30, type: 3}
+  - {fileID: 21300000, guid: 22745877b0b5be041a02f8b88ba55c60, type: 3}
+  - {fileID: 21300000, guid: 0c65246533d10e043ab2e4c5330f1e30, type: 3}
+  - {fileID: 21300000, guid: 0c65246533d10e043ab2e4c5330f1e30, type: 3}
+  - {fileID: 21300000, guid: 0c65246533d10e043ab2e4c5330f1e30, type: 3}
+  - {fileID: 21300000, guid: 0c65246533d10e043ab2e4c5330f1e30, type: 3}
+  - {fileID: 21300000, guid: 06d644cf941ca254f962beacc2be8a5f, type: 3}
+  - {fileID: 21300000, guid: 06d644cf941ca254f962beacc2be8a5f, type: 3}
+  - {fileID: 21300000, guid: 06d644cf941ca254f962beacc2be8a5f, type: 3}
+  - {fileID: 21300000, guid: 06d644cf941ca254f962beacc2be8a5f, type: 3}
+  - {fileID: 21300000, guid: 2b255634b406cf64d94a52b549b1ef0d, type: 3}
+  - {fileID: 21300000, guid: 06d644cf941ca254f962beacc2be8a5f, type: 3}
+  - {fileID: 21300000, guid: 06d644cf941ca254f962beacc2be8a5f, type: 3}
+  - {fileID: 21300000, guid: 06d644cf941ca254f962beacc2be8a5f, type: 3}
+  - {fileID: 21300000, guid: 06d644cf941ca254f962beacc2be8a5f, type: 3}
+  - {fileID: 21300000, guid: 87a9cce4c8f684c4fbcf7ba9c2a6ccad, type: 3}
+  - {fileID: 21300000, guid: cced90d8adfabe44cb66497cef1e1c9b, type: 3}
+  - {fileID: 21300000, guid: 29939d8689a036240b8522974d0840ed, type: 3}
+  - {fileID: 21300000, guid: 29939d8689a036240b8522974d0840ed, type: 3}
+  - {fileID: 21300000, guid: 48b3243d78c09da429e3e15f333e44f7, type: 3}
+  - {fileID: 21300000, guid: 16a36de9c0a49724ab06493cde3f9580, type: 3}
+  - {fileID: 21300000, guid: 16a36de9c0a49724ab06493cde3f9580, type: 3}
+  - {fileID: 21300000, guid: 9832eee299a969148ae3367dff2150fd, type: 3}
+  - {fileID: 21300000, guid: 9832eee299a969148ae3367dff2150fd, type: 3}
+  - {fileID: 21300000, guid: 9832eee299a969148ae3367dff2150fd, type: 3}
+  - {fileID: 21300000, guid: d65bbe183e99b60428c8b65f430b37c4, type: 3}
+  - {fileID: 21300000, guid: 6699464b7a556f348978c8027ffe0b89, type: 3}
+  - {fileID: 21300000, guid: 3f1931712b6c33d478eb2271c207274c, type: 3}
+  - {fileID: 21300000, guid: 898b9c4eb2ff8984a9a6ef4398be83dd, type: 3}
+  - {fileID: 21300000, guid: 339a4bd88fec35a4a956673bdad07936, type: 3}
+  - {fileID: 21300000, guid: 75d8466bc880676469fa51cdd9584765, type: 3}
+  - {fileID: 21300000, guid: 3c53cc643b04c7f46af7531e126f5a9b, type: 3}
+  - {fileID: 21300000, guid: 243bf5f7ebeb5fd46b22cb6df78cdb60, type: 3}
+  - {fileID: 21300000, guid: 05e7755485a1d134994c2dbeccb90bfc, type: 3}
+  - {fileID: 21300000, guid: 05e7755485a1d134994c2dbeccb90bfc, type: 3}
+  - {fileID: 21300000, guid: 05e7755485a1d134994c2dbeccb90bfc, type: 3}
+  - {fileID: 21300000, guid: 05e7755485a1d134994c2dbeccb90bfc, type: 3}
+  - {fileID: 21300000, guid: 05e7755485a1d134994c2dbeccb90bfc, type: 3}
+  - {fileID: 21300000, guid: 05e7755485a1d134994c2dbeccb90bfc, type: 3}
+  - {fileID: 21300000, guid: 05e7755485a1d134994c2dbeccb90bfc, type: 3}
+  - {fileID: 21300000, guid: 05e7755485a1d134994c2dbeccb90bfc, type: 3}
+  - {fileID: 21300000, guid: 05e7755485a1d134994c2dbeccb90bfc, type: 3}
+  - {fileID: 21300000, guid: 05e7755485a1d134994c2dbeccb90bfc, type: 3}
+  - {fileID: 21300000, guid: 05e7755485a1d134994c2dbeccb90bfc, type: 3}
+  - {fileID: 21300000, guid: ab11605c968d1c542afeb1a14433f00a, type: 3}
+  - {fileID: 21300000, guid: ab11605c968d1c542afeb1a14433f00a, type: 3}
+  - {fileID: 21300000, guid: eda014e7b728e8143a2511ed84079d02, type: 3}
+  - {fileID: 21300000, guid: 4a432f4e217be1f498f46e2e109c4204, type: 3}
+  - {fileID: 21300000, guid: 4a432f4e217be1f498f46e2e109c4204, type: 3}
+  - {fileID: 21300000, guid: 7b8cf431d6ce9a7468f16fdaf2ff891e, type: 3}
+  - {fileID: 21300000, guid: 7b8cf431d6ce9a7468f16fdaf2ff891e, type: 3}
+  - {fileID: 21300000, guid: 499cd24a92f6b304c8c74eca79f5d690, type: 3}
+  - {fileID: 21300000, guid: 0d10569406ecee74ea9d9805c0b4b741, type: 3}
+  - {fileID: 21300000, guid: 0d10569406ecee74ea9d9805c0b4b741, type: 3}
+  - {fileID: 21300000, guid: bab372ad85357fb4d9c42abb47392b91, type: 3}
+  - {fileID: 21300000, guid: bab372ad85357fb4d9c42abb47392b91, type: 3}
+  - {fileID: 21300000, guid: 57055cf0c32c3bf4db36903a94c28b67, type: 3}
+  - {fileID: 21300000, guid: 51ea4127824dc724893b1ab249e1e47c, type: 3}
